@@ -10,10 +10,6 @@
 <body>
     <h1>This is a test!</h1>
     <class class="header">
-        <?php
-            require 'header.php';
-        ?>
-    </class>
 
     </class>
 
@@ -22,9 +18,7 @@
     </class>
 
     <class class="footer">
-        <?php
-            require 'footer.php';
-        ?>
+
     </class>
 
 </body>
