@@ -9,5 +9,17 @@
 </head>
 <body>
     <h1>This is a test!</h1>
+    <class class="header">
+
+    </class>
+
+    <class class="container">
+
+    </class>
+
+    <class class="footer">
+
+    </class>
+
 </body>
 </html>
